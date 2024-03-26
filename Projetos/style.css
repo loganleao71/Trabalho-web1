@@ -1,0 +1,78 @@
+.superior{
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+    padding-top: 100px;
+    background-color: #feece0;
+}
+
+.inferior{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+    padding-bottom: 500px;
+    background-color: #9B6647;
+ }
+
+ 
+
+h1{
+
+    font-family: Source Serif Pro;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 90.22px;
+    text-align: left;
+    color: #58190A;
+
+    
+}
+
+h2{
+    font-family: Source Serif Pro;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 47.61px;
+    text-align: left;
+    color: #FEECE0;
+    ;
+    
+
+}
+
+h3{
+    font-family: Source Serif Pro;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 47.61px;
+    text-align: left;
+    color: #58190A;
+    position: relative; top: -55px ;
+}
+
+h4{
+    font-family: Source Serif Pro;
+    font-size: 38px;
+    font-weight: 400;
+    line-height: 47.61px;
+    text-align: left;
+    color: #9B6647;
+    position: relative; top: -100px ;
+}
+ p1{
+    font-family: Source Sans Pro;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 35.2px;
+    text-align: left;
+    color: #FFFFFF;}
+
+p2{
+        font-family: Source Sans Pro;
+        font-size: 28px;
+        font-weight: 400;
+        line-height: 35.2px;
+        text-align: left;
+        color: #FFFFFF;}
+    
